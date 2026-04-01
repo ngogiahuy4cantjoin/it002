@@ -2,6 +2,16 @@
 #include "SoPhuc.h"
 using namespace std;
 
+/*
+Hàm main
+Input: nhập 2 số phức A, B
+Output: in A, B và các phép toán (tổng, hiệu, tích, thương)
+Algorithm:
+- Nhập A, B
+- Xuất A, B
+- Tính 4 phép toán
+- Xuất kết quả
+*/
 int main()
 {
     SoPhuc a, b;
@@ -37,3 +47,4 @@ int main()
 
     return 0;
 }
+
