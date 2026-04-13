@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1775981145 source:c:\download 2.0\codes\(multiple) oop lab\oop_lab3_cau4\main.cpp
+	<iostream>
+	<sstream>
+	"cArray.h"
+
+1775981118 c:\download 2.0\codes\(multiple) oop lab\oop_lab3_cau4\include\carray.h
+
+1775981128 source:c:\download 2.0\codes\(multiple) oop lab\oop_lab3_cau4\src\carray.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	"cArray.h"
+

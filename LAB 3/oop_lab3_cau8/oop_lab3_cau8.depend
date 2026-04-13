@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1776070778 source:c:\download 2.0\codes\(multiple) oop lab\oop_lab3_cau8\main.cpp
+	<iostream>
+	<sstream>
+	"cNhanVienSX.h"
+
+1776070759 c:\download 2.0\codes\(multiple) oop lab\oop_lab3_cau8\include\cnhanviensx.h
+	<string>
+
+1776075144 source:c:\download 2.0\codes\(multiple) oop lab\oop_lab3_cau8\src\cnhanviensx.cpp
+	<iostream>
+	<sstream>
+	<ctime>
+	<cctype>
+	"cNhanVienSX.h"
+

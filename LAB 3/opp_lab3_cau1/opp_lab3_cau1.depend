@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1775961043 source:c:\download 2.0\codes\(multiple) oop lab\opp_lab3_cau1\src\ctamgiac.cpp
+	<iostream>
+	<cmath>
+	"cTamGiac.h"
+
+1775957360 c:\download 2.0\codes\(multiple) oop lab\opp_lab3_cau1\include\ctamgiac.h
+	"Diem.h"
+	<string>
+
+1775918624 c:\download 2.0\codes\(multiple) oop lab\opp_lab3_cau1\include\diem.h
+
+1775960989 source:c:\download 2.0\codes\(multiple) oop lab\opp_lab3_cau1\src\diem.cpp
+	<iostream>
+	<cmath>
+	"Diem.h"
+	<iomanip>
+	<sstream>
+
+1775957493 source:c:\download 2.0\codes\(multiple) oop lab\opp_lab3_cau1\main.cpp
+	<iostream>
+	"cTamGiac.h"
+

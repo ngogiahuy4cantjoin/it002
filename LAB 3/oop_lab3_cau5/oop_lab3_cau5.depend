@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1776061834 source:c:\download 2.0\codes\(multiple) oop lab\oop_lab3_cau5\main.cpp
+	<iostream>
+	<sstream>
+	"cDaThuc.h"
+
+1776061834 c:\download 2.0\codes\(multiple) oop lab\oop_lab3_cau5\include\cdathuc.h
+
+1776061834 source:c:\download 2.0\codes\(multiple) oop lab\oop_lab3_cau5\src\cdathuc.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+	"cDaThuc.h"
+
