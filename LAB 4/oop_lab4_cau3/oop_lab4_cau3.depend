@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1776948970 source:c:\download 2.0\codes\(multiple) oop lab\lab 4\oop_lab4_cau2\oop_lab4_cau3\src\ctime.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	"CTime.h"
+
+1776948571 c:\download 2.0\codes\(multiple) oop lab\lab 4\oop_lab4_cau2\oop_lab4_cau3\include\ctime.h
+	<iostream>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1777086400 source:c:\download 2.0\codes\(multiple) oop lab\lab 4\oop_lab4_cau6\main.cpp
+	<iostream>
+	"CVector.h"
+
+1777080504 c:\download 2.0\codes\(multiple) oop lab\lab 4\oop_lab4_cau6\include\cvector.h
+	<iostream>
+
+1777083886 source:c:\download 2.0\codes\(multiple) oop lab\lab 4\oop_lab4_cau6\src\cvector.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"CVector.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1776738883 source:c:\download2\codeblock\codes\(multiple) lab1 it002\lab 4\oop lab 4 cau 1\main.cpp
+	<iostream>
+	"cSoPhuc.h"
+
+1776737443 c:\download2\codeblock\codes\(multiple) lab1 it002\lab 4\oop lab 4 cau 1\include\csophuc.h
+	<iostream>
+
+1776737593 source:c:\download2\codeblock\codes\(multiple) lab1 it002\lab 4\oop lab 4 cau 1\src\csophuc.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+	"cSoPhuc.h"
+
+1776738883 source:c:\download 2.0\codes\(multiple) oop lab\lab 4\oop lab 4 cau 1\main.cpp
+	<iostream>
+	"cSoPhuc.h"
+
+1776737443 c:\download 2.0\codes\(multiple) oop lab\lab 4\oop lab 4 cau 1\include\csophuc.h
+	<iostream>
+
+1776737593 source:c:\download 2.0\codes\(multiple) oop lab\lab 4\oop lab 4 cau 1\src\csophuc.cpp
+	<iostream>
+	<sstream>
+	<cmath>
+	"cSoPhuc.h"
+
