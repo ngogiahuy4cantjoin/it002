@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1778242865 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau3\main.cpp
+	<iostream>
+	<iomanip>
+	"DanhSach.h"
+
+1778242494 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau3\include\danhsach.h
+	<vector>
+	"SinhVien.h"
+
+1778241877 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau3\include\sinhvien.h
+	<iostream>
+	<string>
+
+1778243109 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau3\src\danhsach.cpp
+	"DanhSach.h"
+	"SinhVienCaoDang.h"
+	"SinhVienDaiHoc.h"
+	<sstream>
+
+1778242461 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau3\include\sinhviencaodang.h
+	"SinhVien.h"
+
+1778242494 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau3\include\sinhviendaihoc.h
+	"SinhVien.h"
+
+1778242211 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau3\src\sinhvien.cpp
+	"SinhVien.h"
+	<sstream>
+
+1778242461 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau3\src\sinhviencaodang.cpp
+	"SinhVienCaoDang.h"
+	<sstream>
+
+1778242494 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau3\src\sinhviendaihoc.cpp
+	"SinhVienDaiHoc.h"
+	<sstream>
+

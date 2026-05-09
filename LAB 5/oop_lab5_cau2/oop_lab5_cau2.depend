@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1778137989 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\main.cpp
+	<iostream>
+	"DanhSach.h"
+	<iomanip>
+
+1778137973 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\src\danhsach.cpp
+	"DanhSach.h"
+	"GiaoDichDat.h"
+	"GiaoDichNhaPho.h"
+	"GiaoDichCanHo.h"
+	<sstream>
+
+1778137973 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\include\danhsach.h
+	<vector>
+	"GiaoDich.h"
+
+1778133539 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\include\giaodich.h
+	<iostream>
+	<string>
+
+1778137971 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\include\giaodichdat.h
+	"GiaoDich.h"
+
+1778137972 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\include\giaodichnhapho.h
+	"GiaoDich.h"
+
+1778137973 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\include\giaodichcanho.h
+	"GiaoDich.h"
+
+1778137912 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\src\giaodich.cpp
+	"GiaoDich.h"
+	<sstream>
+
+1778137973 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\src\giaodichcanho.cpp
+	"GiaoDichCanHo.h"
+	<sstream>
+
+1778137971 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\src\giaodichdat.cpp
+	"GiaoDichDat.h"
+	<sstream>
+
+1778137972 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau2\src\giaodichnhapho.cpp
+	"GiaoDichNhaPho.h"
+	<sstream>
+

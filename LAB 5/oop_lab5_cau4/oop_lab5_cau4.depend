@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1778328212 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau4\main.cpp
+	<iostream>
+	<iomanip>
+	"DanhSach.h"
+
+1778327633 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau4\include\danhsach.h
+	<vector>
+	"NhanVien.h"
+
+1778327524 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau4\include\nhanvien.h
+	<iostream>
+	<string>
+
+1778327650 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau4\src\danhsach.cpp
+	"DanhSach.h"
+	"LapTrinhVien.h"
+	"KiemChungVien.h"
+	<sstream>
+
+1778327565 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau4\include\laptrinhvien.h
+	"NhanVien.h"
+
+1778327633 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau4\include\kiemchungvien.h
+	"NhanVien.h"
+
+1778327633 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau4\src\kiemchungvien.cpp
+	"KiemChungVien.h"
+	<sstream>
+
+1778327565 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau4\src\laptrinhvien.cpp
+	"LapTrinhVien.h"
+	<sstream>
+
+1778327523 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau4\src\nhanvien.cpp
+	"NhanVien.h"
+	<sstream>
+

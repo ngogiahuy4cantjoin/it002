@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1778316350 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\src\danhsach.cpp
+	"DanhSach.h"
+	"KhachHangA.h"
+	"KhachHangB.h"
+	"KhachHangC.h"
+	<fstream>
+	<iomanip>
+
+1778315801 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\include\danhsach.h
+	<vector>
+	"KhachHang.h"
+
+1778315801 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\include\khachhang.h
+	<iostream>
+	<fstream>
+	<string>
+
+1778315801 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\include\khachhanga.h
+	"KhachHang.h"
+
+1778315801 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\include\khachhangb.h
+	"KhachHang.h"
+
+1778315801 c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\include\khachhangc.h
+	"KhachHang.h"
+
+1778315801 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\src\khachhang.cpp
+	"KhachHang.h"
+
+1778315801 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\src\khachhanga.cpp
+	"KhachHangA.h"
+
+1778315801 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\src\khachhangb.cpp
+	"KhachHangB.h"
+
+1778315801 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\src\khachhangc.cpp
+	"KhachHangC.h"
+
+1778315194 source:c:\download 2.0\codes\(multiple) oop lab\lab 5\oop_lab5_cau6\main.cpp
+	"DanhSach.h"
+
